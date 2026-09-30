@@ -8,8 +8,8 @@
 ### Topik : Smart City
 
 ### Sumber dataset : keggle**
-**Link dataset : https://www.kaggle.com/datasets/mobeenfatimah/cityflow-smart-urban-mobility-and-traffic-iot/data**
-**Lisensi : CC BY-NC-SA 4.0**
+### Link dataset : https://www.kaggle.com/datasets/mobeenfatimah/cityflow-smart-urban-mobility-and-traffic-iot/data
+### Lisensi : CC BY-NC-SA 4.0
 
 ### 3 Temuan Utama :
 1. Terdapat 204000 baris
